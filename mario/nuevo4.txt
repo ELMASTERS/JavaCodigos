@@ -1,1 +1,0 @@
- error C2084: la función 'Conjunto Conjunto::operator *(const Conjunto &) const' ya tiene un cuerpo
