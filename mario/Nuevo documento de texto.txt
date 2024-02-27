@@ -1,0 +1,1 @@
+cmd /c cd $(CURRENT_DIRECTORY) & javac $(FILE_NAME) & java $(NAME_PART) & pause

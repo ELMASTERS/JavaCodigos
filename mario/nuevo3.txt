@@ -1,0 +1,22 @@
+Create a mainmethod, and complete the following steps in the main
+method:
+a. Declare two variables of type MyPointand called startand
+end. Assign both of these variables a new MyPointobject.
+b. Set the xand yvalues of startto 10. Set the xvalue of endto
+20 and the yvalue to 30.
+c. Print out both point variables. Use code similar to:
+System.out.println("Start point is " + start);
+d. To make sure that you are using the MyPointclass correctly,
+you might want to compile and run TestMyPointnow (see
+“Task 2 – Compiling the TestMyPointClass” and “Task 3 –
+Running the TestMyPointProgram”). If you do so, the output
+will look something like the following:
+Start point is [10,10]
+End point is [20,30]
+e. Declare a new variable of type MyPointand call it stray.
+Assign straythe reference value of the existing variable end.
+f. Print out strayand end.
+
+g. Assign new values to the x(such as 47) and y(such as 50)
+members of the variable stray.
+h. Print out stray, end, and start.
